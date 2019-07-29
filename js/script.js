@@ -3,10 +3,6 @@ Treehouse Techdegree:
 FSJS project 2 - List Filter and Pagination
 ******************************************/
    
-// Study guide for this project - https://drive.google.com/file/d/1OD1diUsTMdpfMDv677TfL1xO2CEkykSz/view?usp=sharing
-
-
-//I'm going for the 'exceeds' on this project, but I do not mind passing it with a 'Meets Expectation'.
 
 //global variables that store the DOM elements and the number of iterms on each page
 const listItem = document.getElementsByClassName('student-item');
