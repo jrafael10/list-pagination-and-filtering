@@ -2,6 +2,8 @@
 
 This project is called List pagination and filtering. This is a web page that shows a list of student names and allows the user to search the name of the students by typing the name in the search bar, which is located at the top-right portion of the page. When the user types a letter or word in the search bar, the list of students is filtered and only the names that match the letters or words typed by the user are shown on the screen. The web app also has page buttons and links at the bottom that, when clicked, takes the user to other page that contains the additional list of students.  
 
+To view the code of this app, go to the js folder and click script.js. You can also view the live demo here: https://jrafael10.github.io/list-pagination-and-filtering/#
+
 # Skills, Techniques, Process, and the Extra Credit features
 1.  Global variables are declared by selecting the necessary element nodes from the Document Object Model that represents the HTML document.
 
